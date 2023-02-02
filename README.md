@@ -1,7 +1,6 @@
-### Hi, I'm Adrian👋💻
+## Hi, I'm Adrian👋💻
 [![Profile Views](https://gpvc.arturio.dev/arturio)](https://github.com/arturio)
 
-<h1 align="center">Hi 👋, I'm Adrien</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
