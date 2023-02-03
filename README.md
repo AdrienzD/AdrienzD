@@ -1,6 +1,20 @@
 ## Hi, I'm Adrian👋💻
 [![Profile Views](https://gpvc.arturio.dev/arturio)](https://github.com/arturio)
 
+<p align="center">
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+
+
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+
 <h3 align="left">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
