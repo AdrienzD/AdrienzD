@@ -3,14 +3,30 @@
 <p align="center">
 <br><img src="https://github.com/AdrienzD/AdrienzD/blob/main/programm.gif" width="450"><br><br>
     <em>[May the <b>CODE</b> be with you]</em>
-<h3>:thought_balloon: Quote of the day</h3>
+<h3>🤖Introducing me</h3>
+<details open>
+ <summary>See code</summary>
+    
+    import pandas as pd
+
+    def about_me():
+        data = {
+            "Hobbies": ["read_books", "anime", "cooperative games", "series", "play on PS4"],
+            "Estudios": ["Economía", "Data Science"],
+            "Languages & Frameworks": ["Tensorflow", "Python","Pandas", "Numpy", "Seaborn", "SQL", "Big Data", "Docker", "Hive", "hue", "GitHub", "Linux", "and more"],
+            "knowledge": ["HTML", "CSS"]
+        }
+        df = pd.DataFrame(data)
+        print(df)
+        df.to_csv("about_me.csv", index=False)
+
+    about_me()
+
+
+ 
+    <h3>:thought_balloon: Quote of the day</h3>
 <details open>
     <summary>See quote</summary>
-    
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
-    </a>
-
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 
