@@ -1,16 +1,15 @@
-## Hi, I'm Adrian👋💻
-[![Profile Views](https://gpvc.arturio.dev/arturio)](https://github.com/arturio)
-
+[![Profile Views](https://gpvc.arturio.dev/AdrienzD)](https://github.com/AdrienzD)
+<h1 align="center">Hi, I'm Adrian 👋💻</h1>
 <p align="center">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
-
-<h2>:thought_balloon: Quote of the day</h2>
+<br><img src="https://github.com/AdrienzD/AdrienzD/blob/main/programm.gif" width="450"><br><br>
+    <em>[May the <b>CODE</b> be with you]</em>
+<h3>:thought_balloon: Quote of the day</h3>
 <details open>
     <summary>See quote</summary>
+    
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
-
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
@@ -41,6 +40,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdrienzD&theme=dark)](https://git.io/streak-stats)
-[![AdrienzD github stats](https://github-readme-stats.vercel.app/api?username=AdrienzD)
