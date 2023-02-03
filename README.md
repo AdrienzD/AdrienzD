@@ -11,7 +11,7 @@
     def about_me():
         data = {
             "Hobbies": ["read_books", "anime", "cooperative games", "series", "play on PS4"],
-            "Estudios": ["Economía", "Data Science"],
+            "Education": ["Economía", "Data Science"],
             "Languages & Frameworks": ["Tensorflow", "Python","AWS", "Spark", "Pandas", "Numpy", "Seaborn", "SQL", "Big Data", "Docker", "Hive", "hue", "GitHub", "Linux", "and more"],
             "knowledge": ["HTML", "CSS", "CRISP-DM"]
         }
